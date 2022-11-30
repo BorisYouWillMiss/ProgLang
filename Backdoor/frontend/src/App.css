@@ -1,0 +1,26 @@
+ul.folder-list li:nth-child(odd){
+  background-color: aliceblue;
+}
+
+span.material-icons {
+  position: relative;
+  bottom: -5px;
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.current-level{
+  text-align: center;
+  margin: 20px 0;
+}
+
+a{
+  text-align: center;
+  width: 100%;
+}
+#q{
+  text-align: center;
+}
+#down{
+  color:brown;
+}
